@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://tammybutle.github.io/.github/affinityphoto">
+<a href="https://crissyarp.github.io/.github/affinityphoto">
 <img src="https://img.shields.io/badge/GET_Affinity_Photo-darkgreen?style=for-the-badge&logo=apple" alt="GET Affinity Photo">
 </a>
 </div>
